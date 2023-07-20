@@ -1,0 +1,5 @@
+cd "C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II\LaunchBase\Mods\ultimatum\video"
+xcopy artmd.ini "C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II"
+xcopy rulesmd.ini "C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II"
+cd "C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II\LaunchBase\Mods\ultimatum\"
+xcopy expandmd99.mix "C:\Program Files (x86)\Origin Games\Command and Conquer Red Alert II"

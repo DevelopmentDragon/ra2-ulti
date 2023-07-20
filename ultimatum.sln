@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7FC3528F-1B9D-4068-8DF1-091E571DFC31}"
+	ProjectSection(SolutionItems) = preProject
+		aimd.ini = aimd.ini
+		artmd.ini = artmd.ini
+		battlemd.ini = battlemd.ini
+		ChangeLogs.txt = ChangeLogs.txt
+		evamd.ini = evamd.ini
+		missionmd.ini = missionmd.ini
+		mpmodesmd.ini = mpmodesmd.ini
+		rulesmd.ini = rulesmd.ini
+		soundmd.ini = soundmd.ini
+		thememd.ini = thememd.ini
+		uimd.ini = uimd.ini
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E53BA0-70E0-4762-93D8-01A698186007}
+	EndGlobalSection
+EndGlobal

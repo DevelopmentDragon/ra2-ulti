@@ -1,0 +1,26 @@
+C&C: Red Alert 2 Ultimatum Changelog
+
+August 2018
+-Changed American Paradrop
+	-Changed from 8 G.I.s to 6 G.I.s, 6 Navy SEALs and 6 Engineers
+	-Increased timer from 4 minutes to 8 minutes
+-Decreased G.I. cost from $200 to $150
+-Decreased Guardian G.I. cost from $400 to $300
+-Added Heavy G.I.
+	--Made available for Allied Forces until France gets its own independent faction
+	--Costs $200
+	--Slower than G.I. by 1 unit
+	--Uses Flak as armor
+	--No longer deploys but UNCRUSHABLE (remains OMNI-CRUSHABLE)
+	--No longer uses [M60] but instead uses [Para] un-deployed
+-Added Heavy G.G.I.
+	--Made available for Allied Forces until France gets its own independent faction
+	--Costs $400
+	--Uses Flak as armor
+	--No longer deploys but UNCRUSHABLE (remains OMNI-CRUSHABLE)
+	--No longer uses [M60] but instead uses [MissileLauncher] undeployed
+	--Increased health from 100 to 125
+-Added A.F.V: Armored Fighting Vehicle
+	--Made available for Allied Forces until France gets its own independent faction
+	--Costs $700
+	--Uses Heavy Armor instead of Light Armor
